@@ -1,19 +1,37 @@
-# ComfyUI Google Colab スターター
+# ComfyUI スターター - 環境別対応版
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chi-saku/comfyui-google-colab-starter/blob/main/ComfyUI_for_Colab.ipynb)
+**🎨 教育用に最適化された画像生成AI環境**
 
-**🎨 ワンクリックでComfyUI起動！**
+## 🚀 Google Colabで起動する
 
-## 🚀 使い方
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chi-saku/comfyui-starter/blob/main/ComfyUI_Colab.ipynb)
 
-### 📱 Google Colab版（推奨）
-1. 上記の「Open In Colab」バッジをクリック
+### 使い方
+1. 上記バッジをクリック
 2. 「ランタイム」→「すべてのセルを実行」
 3. 表示されるCloudflare URLでComfyUIにアクセス
 
-### 💻 Paperspace版
+## 💻 Paperspaceで起動する
+
+[![Paperspace](https://img.shields.io/badge/Paperspace-Run-blue)](https://github.com/chi-saku/comfyui-starter/blob/main/ComfyUI_Paperspace.ipynb)
+
+### 使い方
 1. PaperspaceでPyTorchテンプレートを選択
-2. ターミナルで以下を実行：
-   ```bash
-   git clone https://github.com/chi-saku/comfyui-google-colab-starter.git
-   cd comfyui-google-colab-starter
+2. 上記リンクからノートブックを開く
+3. 「Run All Cells」を実行
+4. 「Open Port 8123」でアクセス
+
+## 🎓 教育現場での活用
+
+### 講師向け
+- 受講生に環境に応じたリンクを共有
+- ワンクリックで学習環境が整備される
+- トラブルシューティングが最小限
+
+### 学習者向け
+- 複雑なセットアップ不要
+- 15秒で画像生成開始可能
+- 段階的な学習パスを提供
+
+---
+
