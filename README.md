@@ -1,4 +1,4 @@
-# 🎨 佐伯講師のStable Diffusion基礎講座
+# 🎨 Stable Diffusion基礎講座
 
 ## 🚀 環境構築（ワンクリック）
 
