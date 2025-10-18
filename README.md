@@ -4,8 +4,8 @@
 
 | 環境 | 特徴 | 所要時間 | 推奨用途 | Colab で開く |
 |------|------|----------|----------|-------------|
-| **Forge完全版** | 講座と同じ環境<br>高速化機能搭載 | 約15分 | 講座受講・復習 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ちいさんのユーザー名/stable-diffusion-course/blob/main/forge_complete_setup.ipynb) |
-| **ComfyUI版** | ノードベース<br>A1111モデル連携 | 約10分 | ComfyUI学習 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ちいさんのユーザー名/stable-diffusion-course/blob/main/comfyui_complete_setup.ipynb) |
+| **Forge完全版** | 講座と同じ環境<br>高速化機能搭載 | 約15分 | 講座受講・復習 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chi-saku/comfyui-google-colab-スターター/blob/main/forge_complete_setup.ipynb) |
+| **ComfyUI版** | ノードベース<br>A1111モデル連携 | 約10分 | ComfyUI学習 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chi-saku/comfyui-google-colab-スターター/blob/main/comfyui_complete_setup.ipynb) |
 
 ## 💡 環境選択ガイド
 
